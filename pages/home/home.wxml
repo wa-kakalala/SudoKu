@@ -1,0 +1,17 @@
+<view class="wrapitem">
+  <view class="lineitem">
+    <input class="blockitem" type="number"/>
+    <input class="blockitem"/>
+    <input class="blockitem" />
+  </view>
+  <view class="lineitem">
+    <input class="blockitem"/>
+    <input class="blockitem"/>
+    <input class="blockitem" />
+  </view>
+  <view class="lineitem">
+    <input class="blockitem" />
+    <input class="blockitem"/>
+    <input class="blockitem"/>
+  </view>
+</view>

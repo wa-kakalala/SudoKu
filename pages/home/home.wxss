@@ -1,0 +1,18 @@
+/* pages/home/home.wxss */
+.wrapitem{
+    padding: 0rpx;
+    margin: 0rpx;
+}
+.blockitem{
+    width: 80rpx;
+    height: 80rpx;
+    background: #c0c;
+    border: 1rpx solid #fff;
+}
+
+.lineitem{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    border: 1rpx solid #000;
+}
