@@ -6,8 +6,9 @@
   ],
   "window": {
     "backgroundTextStyle": "light",
+    "navigationStyle": "custom",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "Weixin",
+    "navigationBarTitleText": "SudoKu",
     "navigationBarTextStyle": "black"
   },
   "style": "v2",

@@ -1,18 +1,33 @@
 /* pages/home/home.wxss */
-.wrapitem{
-    padding: 0rpx;
-    margin: 0rpx;
+.out{
+    margin: 30rpx 10rpx;
+    padding: 20rpx 0rpx;
+    border: 2rpx solid #040000;
+    border-radius: 3%;
 }
 .blockitem{
-    width: 80rpx;
-    height: 80rpx;
-    background: #c0c;
-    border: 1rpx solid #fff;
+    width: 71rpx;
+    height: 71rpx;
+    background: rgb(232, 241, 254);
+    border: 1rpx solid #959ba7;
+    margin: 1rpx;
 }
 
 .lineitem{
     display: flex;
     flex-direction:row;
     flex-wrap: nowrap;
-    border: 1rpx solid #000;
+
+}
+
+.boxline{
+    display: flex;
+    flex-direction:row;
+    flex-wrap: nowrap;
+    justify-content: center
+
+}
+
+.clsbnt{
+    margin: 20rpx 0rpx;
 }

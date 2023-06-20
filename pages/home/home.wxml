@@ -1,17 +1,166 @@
-<view class="wrapitem">
-  <view class="lineitem">
-    <input class="blockitem" type="number"/>
-    <input class="blockitem"/>
-    <input class="blockitem" />
-  </view>
-  <view class="lineitem">
-    <input class="blockitem"/>
-    <input class="blockitem"/>
-    <input class="blockitem" />
-  </view>
-  <view class="lineitem">
-    <input class="blockitem" />
-    <input class="blockitem"/>
-    <input class="blockitem"/>
-  </view>
+<!-- 占位，高度与顶部栏一样 -->
+<navigation-bar default-data="{{defaultData}}"></navigation-bar>
+<view class="out">
+    <view class="boxline">
+        <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    </view>
+    <view class="boxline">
+        <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    </view>
+    <view class="boxline">
+        <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    <view class="boxnine">
+        <view class="lineitem">
+            <input class="blockitem" type="number"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+            <input class="blockitem" />
+        </view>
+        <view class="lineitem">
+            <input class="blockitem" />
+            <input class="blockitem"/>
+            <input class="blockitem"/>
+        </view>
+    </view>
+    </view>
+    <button type="primary" class="clsbnt">清空</button>
+    <button>确认</button>
 </view>
+ 

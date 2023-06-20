@@ -1,11 +1,14 @@
 // pages/home/home.js
+const app = getApp();
 Page({
 
   /**
    * 页面的初始数据
    */
   data: {
-
+    defaultData: {
+        title: "SudoKu", // 导航栏标题
+    }
   },
 
   /**
@@ -63,4 +66,7 @@ Page({
   onShareAppMessage() {
 
   }
+
+
+
 })
